@@ -10,7 +10,7 @@ Recommender Systems represent one of the most widespread and impactful applicati
 ## Algorithm:
 Apriori Algorithm, Matrix Factorisation Algorithm, TF-IDF
 
-[Video Link](https://drive.google.com/file/d/14PF7GjGpiXs7TS1QP46qwcWfcmhjZ3f-/view?usp=share_link)
+[Video Link](https://youtu.be/zsb4PjdCu4s)
 
 ## Conclusion: 
 The study analyses the outcomes of several recommendation algorithms, as well as in-depth understanding of how these algorithms work and forecast user preferences or goods that are likely to be of interest to them. It also covers potential future work, such as the extension of each method to different applications.
