@@ -9,6 +9,7 @@ Recommender Systems represent one of the most widespread and impactful applicati
 
 ## Algorithm:
 Apriori Algorithm, Matrix Factorisation Algorithm, TF-IDF
+
 [Video Link](https://drive.google.com/file/d/14PF7GjGpiXs7TS1QP46qwcWfcmhjZ3f-/view?usp=share_link)
 
 ## Conclusion: 
